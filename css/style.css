@@ -78,7 +78,7 @@ h4 {
   color: black;
   border: #EBE2D7 solid 2px;
   background-color: #EBE2D7;
-  transition: background-color 0.5s ease;
+  transition: background-color border-color 0.5s ease;
 }
 
 .btn-primary:hover {
